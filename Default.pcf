@@ -1,0 +1,6 @@
+[FtwSetup]
+PrimaryLogonGateway=91.202.236.35:18186
+StandbyLogonGateway=91.202.236.35:18186
+SystemID=aacb_lon_uaa
+LogonGatewayServiceID=2991
+PatchService=APAS_SPATCH

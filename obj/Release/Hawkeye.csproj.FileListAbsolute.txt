@@ -1,0 +1,9 @@
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\bin\Release\Hawkeye.exe
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\bin\Release\Hawkeye.pdb
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\bin\Release\Fidessa.DesktopApi.dll
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\obj\Release\Hawkeye.csprojResolveAssemblyReference.cache
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\obj\Release\Hawkeye.Properties.Resources.resources
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\obj\Release\Hawkeye.WatchForm.resources
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\obj\Release\Hawkeye.csproj.GenerateResource.Cache
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\obj\Release\Hawkeye.exe
+C:\Fidessa\Fidessa.DesktopApi\FDAPI\Hawkeye\obj\Release\Hawkeye.pdb
